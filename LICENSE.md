@@ -1,4 +1,4 @@
-# 
+# Custom LocalAI scripts. Featuring version-control and fine-tuning — optimized for maximum performance and efficiency.
 
 
 
